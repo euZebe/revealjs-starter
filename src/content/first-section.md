@@ -1,4 +1,4 @@
-# Section One
+# Section 1
 
 The beginning of a new section
 

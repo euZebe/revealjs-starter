@@ -26,7 +26,7 @@ module.exports = {
       template: './index.html'
     }),
     new CopyWebpackPlugin([ 
-      { from: { glob: 'content/*.md' } } 
+      { from: { glob: '**/*.md' } } 
     ])
   ],
   devServer: {
