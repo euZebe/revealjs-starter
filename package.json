@@ -1,7 +1,7 @@
 {
   "name": "webpack-workshop-slides",
   "version": "1.0.0",
-  "description": "Slides for the Webpack Workshop",
+  "description": "Slides project starter with live reload",
   "main": "dist/bundle.js",
   "repository": {},
   "scripts": {
@@ -9,9 +9,8 @@
     "build": "npm run clean && webpack",
     "start": "webpack-dev-server"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["revealJS", "starter", "livereload", "live", "reload"],
+  "author": "euZebe",
   "devDependencies": {
     "copy-webpack-plugin": "3.0.1",
     "css-loader": "0.23.1",
